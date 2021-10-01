@@ -1,0 +1,13 @@
+AxisPower: 5
+NumVerticies: 8
+Verticies: 8 0 6 6 0 8 -6 6 -8 0 -6 -6 0 -8 6 -6
+Rotate: 0
+Shift: 10 32
+NumVerticies: 8
+Verticies: 8 0 6 6 0 8 -6 6 -8 0 -6 -6 0 -8 6 -6
+Rotate: 0
+Shift: -10 32
+NumVerticies: 4
+Verticies: 32 0 -32 0 -32 -16 32 -16
+Rotate: 0
+Shift: 0 -32

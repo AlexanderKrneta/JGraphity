@@ -1,0 +1,9 @@
+AxisPower: 5
+NumVerticies: 4
+Verticies: 32 32 -8 16 -32 -32 8 -16
+Rotate: -45
+Shift: 0 120
+NumVerticies: 8
+Verticies: 32 32 -32 32 -32 -32 32 -32 24 -16 -16 -16 -16 16 24 16
+Rotate: 90
+Shift: -20 0
