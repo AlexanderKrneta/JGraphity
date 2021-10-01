@@ -42,3 +42,12 @@ GENERATING THE GRAPH:
 - Given file name f.txt which you ran the sim on
   - Execute:
     - ./j -P f.jgr | ps2pdf - | convert -density 300 - -quality 100 f.jpg 
+
+OUTPUT:
+- While the program runs
+    - It will output the generation and compression of each polygon
+        - The commpression was my own idea, bassically that you can treat large, uninteresting regions, as more massive point particles
+        - The generation has more room to be made more accurate, using a sort of anti-aliasing which I had spent too much time planning how to implement  
+
+Intentions:
+- I had planned to implement the barns-hutt approximation for a speed boost, but that would have taken a lot more planning and testing of possible implementations
